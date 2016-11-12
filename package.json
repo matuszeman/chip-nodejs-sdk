@@ -1,0 +1,17 @@
+{
+  "name": "iot-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^9.2.0",
+    "lodash": "^4.16.6",
+    "noble": "^1.7.0",
+    "shelljs": "^0.7.5"
+  }
+}
